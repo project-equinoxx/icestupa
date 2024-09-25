@@ -72,7 +72,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Social Media Management
+      text: The Solution!
       color: text-dark
     subtitle: Increase your reach
     text: >
