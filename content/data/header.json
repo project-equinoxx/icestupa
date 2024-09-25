@@ -42,7 +42,7 @@
         {
             "type": "Button",
             "label": "Donate",
-            "altText": "",
+            "altText": "Donate",
             "url": "/Donate",
             "showIcon": false,
             "icon": "arrowRight",
