@@ -48,7 +48,7 @@
         {
             "type": "Button",
             "label": "Get started",
-            "altText": "",
+            "altText": "resources",
             "url": "/resources",
             "showIcon": false,
             "icon": "arrowRight",
