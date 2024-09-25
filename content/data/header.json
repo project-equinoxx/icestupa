@@ -66,6 +66,17 @@
             "iconPosition": "right",
             "style": "secondary",
             "elementId": ""
+        },
+        {
+            "type": "Button",
+            "label": "Get started",
+            "altText": "",
+            "url": "/contact",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "elementId": ""
         }
     ],
     "secondaryLinks": [],
