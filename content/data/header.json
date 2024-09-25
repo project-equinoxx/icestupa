@@ -58,7 +58,7 @@
         },
         {
             "type": "Button",
-            "label": "Career",
+            "label": "Join the Cause",
             "altText": "joinus",
             "url": "/joinus",
             "showIcon": false,
