@@ -38,17 +38,6 @@
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
-        },
-        {
-            "type": "Button",
-            "label": "Donate",
-            "altText": "Donate",
-            "url": "/Donate",
-            "showIcon": false,
-            "icon": "play",
-            "iconPosition": "right",
-            "style": "secondary",
-            "elementId": ""
         }
     ],
     "secondaryLinks": [],
