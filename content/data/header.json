@@ -43,7 +43,7 @@
             "type": "Button",
             "label": "Get started",
             "altText": "",
-            "url": "/Career",
+            "url": "/Donate",
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
