@@ -59,7 +59,7 @@
         {
             "type": "Button",
             "label": "Career",
-            "altText": "",
+            "altText": "career",
             "url": "/career",
             "showIcon": false,
             "icon": "arrowRight",
