@@ -35,6 +35,17 @@
             "elementId": ""
         },
         {
+            "type": "Button",
+            "label": "Get started",
+            "altText": "",
+            "url": "/projects",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "primary",
+            "elementId": ""
+        },
+        {
             "label": "Projects",
             "altText": "Research & Innovation",
             "url": "/research",
