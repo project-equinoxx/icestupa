@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Artificial Glaciears of Ladakh
+      text: THE ICE STUPA PROJECT
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
