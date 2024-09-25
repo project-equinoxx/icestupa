@@ -32,7 +32,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/ice stupa logo.png
+      url: /images/Screenshot 2024-09-25 230357.png
       altText: IceStupaLogo
       elementId: ''
       type: ImageBlock
