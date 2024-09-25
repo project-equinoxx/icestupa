@@ -70,7 +70,7 @@
         {
             "type": "Button",
             "label": "Donate",
-            "altText": "",
+            "altText": "donate",
             "url": "/contact",
             "showIcon": false,
             "icon": "arrowRight",
