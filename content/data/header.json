@@ -71,7 +71,7 @@
             "type": "Button",
             "label": "Donate",
             "altText": "donate",
-            "url": "/contact",
+            "url": "/donate",
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
