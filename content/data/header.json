@@ -60,7 +60,7 @@
             "type": "Button",
             "label": "Career",
             "altText": "career",
-            "url": "/career",
+            "url": "/joinus",
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
