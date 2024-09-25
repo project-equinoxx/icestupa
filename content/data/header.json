@@ -58,7 +58,7 @@
         },
         {
             "type": "Button",
-            "label": "Get started",
+            "label": "Career",
             "altText": "",
             "url": "/career",
             "showIcon": false,
