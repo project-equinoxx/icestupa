@@ -95,7 +95,7 @@ sections:
       self:
         alignItems: center
   - title:
-      text: Grow your business 10x faster
+      text: ''
       color: text-dark
       styles:
         self:
