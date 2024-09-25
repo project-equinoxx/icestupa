@@ -13,15 +13,6 @@
     },
     "primaryLinks": [
         {
-            "label": "About",
-            "url": "/about",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link",
-            "altText": "about"
-        },
-        {
             "type": "Button",
             "label": "About",
             "altText": "About",
