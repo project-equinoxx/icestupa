@@ -24,7 +24,7 @@
         {
             "type": "Button",
             "label": "About",
-            "altText": "",
+            "altText": "About",
             "url": "/About",
             "showIcon": false,
             "icon": "arrowRight",
