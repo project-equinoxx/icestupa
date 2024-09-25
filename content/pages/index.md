@@ -85,13 +85,7 @@ sections:
       This innovative solution was initiated by His Holiness Drikung Skyabgon
       Chetsang Rinpochey.
 
-    actions:
-      - type: Button
-        label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
+    actions: []
     media:
       type: ImageBlock
       url: /images/ice.webp
