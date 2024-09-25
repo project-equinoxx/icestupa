@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: THE ICE STUPA PROJECT
+      text: THE ICE STUPA
       color: text-dark
       type: TitleBlock
     subtitle: 'Preserving Water, Securing Futures'
