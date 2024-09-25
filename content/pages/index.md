@@ -69,7 +69,7 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/LIVE-SIMPLY-1024x683.webp
+      url: /images/Rehabilitation2.webp
       altText: Dope design preview
     colors: bg-light-fg-dark
     styles:
