@@ -20,16 +20,7 @@ sections:
       glacial meltwater to the arid land, making it possible to cultivate crops
       like barley, wheat, and vegetables, and nurture trees such as apricots,
       apples, willow, and poplar.
-    actions:
-      - label: See Tutorials
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
+    actions: []
     media:
       altText: IceStupaLogo
       elementId: ''
