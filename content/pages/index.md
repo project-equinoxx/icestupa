@@ -72,7 +72,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: The Solution!
+      text: Our Solution!
       color: text-dark
     subtitle: ''
     text: >
