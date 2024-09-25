@@ -41,7 +41,7 @@
         },
         {
             "type": "Button",
-            "label": "Get started",
+            "label": "Donate",
             "altText": "",
             "url": "/Donate",
             "showIcon": false,
