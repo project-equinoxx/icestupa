@@ -41,17 +41,25 @@ sections:
       type: TitleBlock
       text: Business Consulting
       color: text-dark
-    subtitle: Be in good company
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+    subtitle: ''
+    text: >+
+      Many villages in Ladakh experience severe water shortages, particularly
+      during the critical months of April and May, when glacial streams run low
+      and villagers compete for water to irrigate their newly planted crops. By
+      mid-June, however, the situation reverses as rapid snow and glacier melt
+      leads to an excess of water, often causing flash floods. By mid-September,
+      farming activities conclude, but a steady stream continues to flow
+      throughout the winter, wastefully draining into the Indus River without
+      serving any purpose.
+
+
+      This problem is intensifying over time as Himalayan glaciers shrink due to
+      global warming and local pollution, threatening the water security of
+      these fragile communities.
+
+
+
     actions:
-      - type: Button
-        label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
       - type: Link
         label: See Tutorials
         url: /
