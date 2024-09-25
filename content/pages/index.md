@@ -32,7 +32,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/Screenshot 2024-09-25 230357.png
+      url: /images/ice stupa logo.png
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
