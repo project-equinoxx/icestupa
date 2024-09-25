@@ -43,21 +43,19 @@ sections:
       color: text-dark
     subtitle: ''
     text: >+
-      Many villages in Ladakh experience severe water shortages, particularly
-      during the critical months of April and May, when glacial streams run low
-      and villagers compete for water to irrigate their newly planted crops. By
-      mid-June, however, the situation reverses as rapid snow and glacier melt
-      leads to an excess of water, often causing flash floods. By mid-September,
-      farming activities conclude, but a steady stream continues to flow
-      throughout the winter, wastefully draining into the Indus River without
-      serving any purpose.
+      <div style="text-align: right">Many villages in Ladakh experience severe
+      water shortages, particularly during the critical months of April and May,
+      when glacial streams run low and villagers compete for water to irrigate
+      their newly planted crops. By mid-June, however, the situation reverses as
+      rapid snow and glacier melt leads to an excess of water, often causing
+      flash floods. By mid-September, farming activities conclude, but a steady
+      stream continues to flow throughout the winter, wastefully draining into
+      the Indus River without serving any purpose.</div>
 
 
-      This problem is intensifying over time as Himalayan glaciers shrink due to
-      global warming and local pollution, threatening the water security of
-      these fragile communities.
-
-
+      <div style="text-align: right">This problem is intensifying over time as
+      Himalayan glaciers shrink due to global warming and local pollution,
+      threatening the water security of these fragile communities.</div>
 
     actions:
       - type: Button
