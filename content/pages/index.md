@@ -74,7 +74,7 @@ sections:
       type: TitleBlock
       text: The Solution!
       color: text-dark
-    subtitle: Increase your reach
+    subtitle: ''
     text: >
       A service that helps businesses to manage their social media accounts and
       posts.
