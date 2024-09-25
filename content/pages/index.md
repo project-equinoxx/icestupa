@@ -43,7 +43,7 @@ sections:
       color: text-dark
     subtitle: ''
     text: >+
-      <div style="text-align: right">Many villages in Ladakh experience severe
+      <div style="text-align: left">Many villages in Ladakh experience severe
       water shortages, particularly during the critical months of April and May,
       when glacial streams run low and villagers compete for water to irrigate
       their newly planted crops. By mid-June, however, the situation reverses as
@@ -53,7 +53,7 @@ sections:
       the Indus River without serving any purpose.</div>
 
 
-      <div style="text-align: right">This problem is intensifying over time as
+      <div style="text-align: left">This problem is intensifying over time as
       Himalayan glaciers shrink due to global warming and local pollution,
       threatening the water security of these fragile communities.</div>
 
