@@ -101,7 +101,7 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/hero2.svg
+      url: /images/ice.webp
       altText: Fun feature preview
     colors: bg-light-fg-dark
     styles:
