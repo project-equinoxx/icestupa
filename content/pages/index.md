@@ -75,9 +75,16 @@ sections:
       text: Our Solution!
       color: text-dark
     subtitle: ''
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    text: >+
+
+      After years of experimentation at the [SECMOL](https://secmol.org) &
+      [HIAL](https://hial.edu.in), we witness the creation of Ice Stupa. These
+      artificial glaciers are designed to capture the unused winter water by
+      storing it as ice mountains, which gradually melt in the warmer months,
+      providing much-needed water to farmers during the critical growing season.
+      This innovative solution was initiated by His Holiness Drikung Skyabgon
+      Chetsang Rinpochey.
+
     actions:
       - type: Button
         label: Get started
