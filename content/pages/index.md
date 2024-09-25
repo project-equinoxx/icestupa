@@ -9,9 +9,17 @@ sections:
       type: TitleBlock
     subtitle: PROJECT
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Ladakh, a trans-Himalayan mountain desert in northern India, is home to
+      villages nestled at altitudes ranging from 2,700m to 4,000m. Known for its
+      harsh climate, this cold desert experiences winter temperatures plummeting
+      to -30°C and receives an annual precipitation of just 100 mm. Despite
+      these challenging conditions, human settlements thrive by harnessing
+      glacial streams that flow into the Indus River and its tributaries. The
+      survival and prosperity of these communities hinge on the ancient art of
+      water diversion, where carefully constructed canals channel precious
+      glacial meltwater to the arid land, making it possible to cultivate crops
+      like barley, wheat, and vegetables, and nurture trees such as apricots,
+      apples, willow, and poplar.
     actions:
       - label: Get started
         altText: ''
