@@ -33,7 +33,7 @@ sections:
         type: Link
     media:
       url: /images/ice stupa logo.png
-      altText: Unblock your team boost your time to production preview
+      altText: IceStupaLogo
       elementId: ''
       type: ImageBlock
     elementId: ''
