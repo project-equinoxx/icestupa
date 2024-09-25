@@ -23,7 +23,7 @@
         },
         {
             "type": "Button",
-            "label": "Get started",
+            "label": "About",
             "altText": "",
             "url": "/About",
             "showIcon": false,
