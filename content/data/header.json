@@ -44,7 +44,7 @@
             "label": "Donate",
             "altText": "Donate",
             "url": "/Donate",
-            "showIcon": false,
+            "showIcon": true,
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
