@@ -68,15 +68,6 @@
             "elementId": ""
         },
         {
-            "label": "Projects",
-            "altText": "Research & Innovation",
-            "url": "/research",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
             "label": "Resources",
             "altText": "resources",
             "url": "/resources",
