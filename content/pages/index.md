@@ -149,7 +149,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Got Intresting Ideas? Tell us more
+      text: Got Interesting Ideas?
       color: text-dark
       type: TitleBlock
     subtitle: Section with a form subtitle
