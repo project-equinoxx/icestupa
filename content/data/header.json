@@ -58,17 +58,6 @@
         },
         {
             "type": "Button",
-            "label": "Join the Cause",
-            "altText": "joinus",
-            "url": "/joinus",
-            "showIcon": false,
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "elementId": ""
-        },
-        {
-            "type": "Button",
             "label": "Donate",
             "altText": "donate",
             "url": "/donate",
